@@ -58,7 +58,7 @@ The following image demonstrates the application functionality:
 You are required to submit the following for review:
 
 - A walkthrough video demonstrating the functionality of the application
-  and all of the acceptance criteria being met:
+  and all of the acceptance criteria being met: https://drive.google.com/file/d/1hg0SocvXzCwCFWTc6PwMMZUBq3_M9Ldo/view
 
 - The URL of the GitHub repository: https://github.com/sstover25/e-commerce-back-end
 
