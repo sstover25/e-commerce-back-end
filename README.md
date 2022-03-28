@@ -46,7 +46,7 @@ data in the database.
 ## Walkthrough Video
 
 ```
-https://drive.google.com/file/d/1fPh5NYj0vPHTZLajJnjYDjZw7szIAtTn/view
+https://drive.google.com/file/d/1hg0SocvXzCwCFWTc6PwMMZUBq3_M9Ldo/view
 ```
 
 The following image demonstrates the application functionality:
